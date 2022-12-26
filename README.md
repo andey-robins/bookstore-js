@@ -4,8 +4,8 @@
 
 Alternative language versions are available in:
 
-- [Go](https://github.com/andey-robins/)
-- [Rust](https://github.com/andey-robins/)
+- [Go](https://github.com/andey-robins/bookstore-go)
+- [Rust](https://github.com/andey-robins/bookstore-rs)
 
 ## Versioning
 
